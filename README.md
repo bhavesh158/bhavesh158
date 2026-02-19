@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhavesh Kshatriya
 
-<!--
-**bhavesh158/bhavesh158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused engineer with experience in **Ruby on Rails, TypeScript, and system design**.
+I care about **clean architecture, production reliability, and developer experience**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub at a Glance
+
+![Metrics](https://raw.githubusercontent.com/bhavesh158/bhavesh158/main/github-metrics.svg)
+
+---
+
+## 🛠 Tech Stack
+- **Backend:** Ruby on Rails, Node.js
+- **Frontend:** TypeScript, React
+- **Infra:** Docker, Linux
+- **Databases:** PostgreSQL, Redis
+
+---
+
+## 📫 Reach Me
+- GitHub: https://github.com/bhavesh158
