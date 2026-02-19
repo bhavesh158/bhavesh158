@@ -1,8 +1,12 @@
 name: GitHub Metrics
+
 on:
   schedule:
-    - cron: "0 2 * * *"   # updates daily
+    - cron: "0 2 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
@@ -12,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: bhavesh158
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories
           plugin_isocalendar: yes
