@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: bhavesh158
           filename: github-metrics.svg
-          template: classic
+          template: terminal
           base: header, activity, community, repositories
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -27,3 +27,9 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_timezone: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_lines: yes
