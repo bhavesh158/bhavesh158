@@ -1,14 +1,10 @@
 <!-- Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,70:0d3b5e,100:0D1117&height=210&section=header&text=Bhavesh%20Kshatriya&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Engineer%20%E2%80%A2%2013%20Years%20%E2%80%A2%20Backend%20%E2%80%A2%20Systems%20%E2%80%A2%20Architecture&descAlignY=62&descSize=17&descColor=8B949E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0d2137,70:0d3b5e,100:0D1117&height=210&section=header&text=Bhavesh%20Kshatriya&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Chief%20Technology%20Officer%20%E2%80%A2%2013%20Years%20%E2%80%A2%20Backend%20%E2%80%A2%20Systems%20%E2%80%A2%20Architecture&descAlignY=62&descSize=17&descColor=8B949E"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=660&lines=Shipping+production+systems+since+2011+%F0%9F%9A%80;Backend+%7C+API+Design+%7C+System+Architecture;Ruby+on+Rails+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Production+reliability+is+a+feature%2C+not+a+nice-to-have;Clean+code+today+%E2%86%92+fewer+incidents+tomorrow)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhavesh158&color=58A6FF&style=flat-square&label=Profile+Views)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/bhavesh158?style=flat-square&color=3FB950&logo=github&label=Followers&logoColor=white)](https://github.com/bhavesh158?tab=followers)
 
 </div>
 
@@ -19,8 +15,8 @@
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
 │  Name     │  Bhavesh Kshatriya                                  │
-│  Title    │  Senior Software Engineer                           │
-│  YoE      │  13 years  ·  2011 → present                       │
+│  Title    │  Chief Technology Officer                           │
+│  YoE      │  13 years  ·  2013 -> present                       │
 │  Domain   │  Backend · API Design · System Architecture         │
 │  Stack    │  Ruby on Rails · TypeScript · Node.js               │
 │  Data     │  PostgreSQL · Redis                                 │
@@ -46,6 +42,7 @@
 **`[ Frontend ]`**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **`[ Data ]`**
@@ -72,9 +69,9 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bhavesh158&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bhavesh158&show_icons=true&include_all_commits=true&count_private=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=bhavesh158&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavesh158&theme=nord_dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavesh158&theme=github">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavesh158&theme=nord_dark" height="170"/>
       </picture>
     </td>
     <td width="50%" align="center">
@@ -90,9 +87,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh158&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=500">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh158&layout=compact&langs_count=8&card_width=500">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh158&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=500"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavesh158&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavesh158&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavesh158&theme=nord_dark"/>
 </picture>
 
 </div>
@@ -144,6 +141,8 @@
 <details>
 <summary><code>$ cat metrics.svg</code> &nbsp;·&nbsp; Deep-dive stats (habits · achievements · calendar · languages)</summary>
 <br/>
+
+> After merging, trigger the **GitHub Metrics** workflow manually from the Actions tab to regenerate this SVG with the new plugins.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/bhavesh158/bhavesh158/main/github-metrics.svg" width="100%"/>
